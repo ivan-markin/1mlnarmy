@@ -53,7 +53,7 @@
                         Start earning with Axie Infinity just now
                     </h1>
                     <picture>
-                        <source src="./images/title-image.png ./images/title-image@2x.png 2x">
+                        <source src="./images/title-image.png, ./images/title-image@2x.png 2x">
                         <img src="./images/title-image.png" alt="">
                     </picture>
                     <p class="title-block__description">
@@ -61,7 +61,7 @@
                         without any deposit.
                     </p>
                     <div class="title-block__heroes-available">
-                        Heroes is available: 68
+                        Heroes are available: 68
                     </div>
                     <div class="title-block__cta-block">
                         <a class="btn btn_primary" href="registration.html">
@@ -109,7 +109,7 @@
                             Get started for 5 minutes
                         </h2>
                         <ol>
-                            <li><a class="text-link" href="">Create an account</a></li>
+                            <li><a class="text-link" href="registration.html">Create an account</a></li>
                             <li>Сhoose game</li>
                             <li>Сhoose heroes</li>
                             <li>Play and earn</li>
@@ -123,7 +123,7 @@
                         <h2 class="features__card-title secondary-title">
                             Axie Infinity
                         </h2>
-                        <a class="btn btn_section" href="">
+                        <a class="btn btn_section" href="registration.html">
                             <span>Let's play and earn</span>
                         </a>
                     </div>
@@ -155,7 +155,7 @@
                         is charged a 50%
                         commission
                     </p>
-                    <a class="btn btn_section" href="">
+                    <a class="btn btn_section" href="registration.html">
                         <span>Pick heroes and start to earn</span>
                     </a>
                 </div>
@@ -187,7 +187,7 @@
                     </div>
                 </div>
 
-                <a href="" class="btn btn_section">
+                <a href="registration.html" class="btn btn_section">
                     <span>Pick axies and start to earn</span>
                 </a>
             </div>
